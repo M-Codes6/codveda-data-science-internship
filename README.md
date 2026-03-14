@@ -20,9 +20,9 @@ quotes_dataset.csv
 - Used visualization tools such as `matplotlib` and `seaborn`.
 
 Key techniques used:
-Data Cleaning
-EDA
-Correlation Analysis
+Data Cleaning,
+EDA,
+Correlation Analysis,
 Outlier Detection
 
 
