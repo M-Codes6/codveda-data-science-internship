@@ -22,8 +22,8 @@ quotes_dataset.csv
 
 ### Example Visualizations
 
-![Correlation Heatmap](images/correlation_heatmap.png)
-
+![Correlation Heatmap](images/correalation_heatmap.png
+)
 ![Rooms vs Price](images/rm_vs_price.png)
 
 ![LSTAT vs Price](images/lstat_vs_price.png)
