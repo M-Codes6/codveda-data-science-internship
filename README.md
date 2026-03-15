@@ -19,6 +19,18 @@ quotes_dataset.csv
 - Analyzed feature relationships with house prices.
 - Used visualization tools such as `matplotlib` and `seaborn`.
 
+
+### Example Visualizations
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+![Rooms vs Price](images/rm_vs_price.png)
+
+![LSTAT vs Price](images/lstat_vs_price.png)
+
+![House Price Distribution ](images/house_price_distribution.png)
+
+
 Key techniques used:
 Data Cleaning,
 EDA,
