@@ -68,6 +68,18 @@ Random Forest performed significantly better than Logistic Regression by improvi
 
 ---
 
+## 🔹 4.Customer Segmentation using K-Means (Unsupervised Learning)
+
+🔹 Applied K-Means clustering to segment customers based on income and spending behavior  
+🔹 Used Elbow Method to determine the optimal number of clusters  
+🔹 Visualized clusters and identified distinct customer groups  
+
+📊 **Key Insight:**  
+Different customer segments exhibit different spending patterns, enabling businesses to design targeted marketing strategies.
+
+
+---
+
 # 🛠️ Tools & Libraries
 
 - Python  
